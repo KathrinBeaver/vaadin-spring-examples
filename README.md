@@ -20,4 +20,4 @@ Run `mvn clean install spring-boot:run` in the project root directory. After the
 
 ## Running the project from your IDE
 
-Navigate to the `org.vaadin.spring.tutorial.TutorialApplication` class and run it as a Java application.
+Navigate to the `ru.mai.vaadinspring.Application` class and run it as a Java application.
